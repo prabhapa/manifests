@@ -84,7 +84,7 @@ image:
 # containerPort: 4180
 
 extraArgs: {}
-extraEnv: []
+extraEnv: {}
 
 # -- Custom labels to add into metadata
 customLabels: {}
